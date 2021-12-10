@@ -12,7 +12,7 @@
 ### Talking about Personal Stuffs:
 
 - 🚀 &nbsp; I’m working as Full Stack Development in <b>OPTUM Global Solutions</b>.
-- 🛠 &nbsp; I’m currently working with React, Nodejs, Mongodb, Javascript, Dockerization etc.
+- 🛠 &nbsp; I’m currently working with React, Angular, Nodejs, Mongodb, Javascript, Dockerization etc.
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/sarathkammari)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: sarathkammari1987@gmail.com.
@@ -35,8 +35,8 @@
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivanathsai&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanathsai&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarathkammari&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarathkammari&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <details>
@@ -62,15 +62,16 @@
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>  	    	    
-  	  <li><b>Browser: </b> Chrome Developer Edition</li>	    
-	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>	    	    
+	  <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
+  	  <li><b>Browser: </b> Chrome Developer Edition</li>	    	    	    	    
 	</ul>
 </details>
 
 #
-
+<!--
 <div align="center">
 
-### Show some ❤️ to Shiva Mittapalli by starring some of the repositories!
+### Show some ❤️ to Sarath Chandra Kammari by starring some of the repositories!
 
 </div>
+-->
